@@ -155,9 +155,9 @@ vscode、ideal2018.1、sublime等编译工具已安装
 
 * 微服务优点
 
- 	通俗地讲，“单体应用（monolith application）”就是将应用程序的所有功能都打包成一个独立的单元，可以是JAR、EXE、BIN或其它归档格式。
+ 1通俗地讲，“单体应用（monolith application）”就是将应用程序的所有功能都打包成一个独立的单元，可以是JAR、EXE、BIN或其它归档格式。
 
-![image-6](https://github.com/hou-jiangfeng/hjf/blob/master/photos/6.png)
+                   ![image-6](https://github.com/hou-jiangfeng/hjf/blob/master/photos/6.png)
 
 ​    这种模式的缺点在于
 
